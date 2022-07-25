@@ -1,0 +1,10 @@
+{
+  "name": "lexer-app",
+  "version": "0.0.1",
+  "description": "LexerApp",
+  "main": "app.js",
+  "author": {
+    "name": "Jzee",
+    "email": "jahanzaib2004@yahoo.com"
+  }
+}
